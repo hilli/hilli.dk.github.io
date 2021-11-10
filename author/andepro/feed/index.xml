@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Andepro &#8211; hilli.dk</title>
+	<atom:link href="/author/andepro/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>bRog</description>
+	<lastBuildDate>Tue, 13 Jan 2009 17:49:47 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+<site xmlns="com-wordpress:feed-additions:1">28158379</site>	<item>
+		<title>Hacking Your PSP Audio</title>
+		<link>/2006/01/20/hacking-your-psp-audio/</link>
+		
+		<dc:creator><![CDATA[Andepro]]></dc:creator>
+		<pubDate>Fri, 20 Jan 2006 09:56:12 +0000</pubDate>
+				<category><![CDATA[Techno Blabber]]></category>
+		<guid isPermaLink="false">/2006/01/20/hacking-your-psp-audio/</guid>
+
+					<description><![CDATA[Read: http://www.extremetech.com/article2/0,1697,1913235,00.asp]]></description>
+										<content:encoded><![CDATA[<p>Read: <a href="http://www.extremetech.com/article2/0,1697,1913235,00.asp">http://www.extremetech.com/article2/0,1697,1913235,00.asp</a></p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">51</post-id>	</item>
+	</channel>
+</rss>

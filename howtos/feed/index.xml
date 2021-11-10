@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Howtos	</title>
+	<atom:link href="/howtos/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>bRog</description>
+	<lastBuildDate>Tue, 13 Jan 2009 17:46:58 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>
+		By: Dan Sheffner		</title>
+		<link>/howtos/comment-page-1/#comment-668</link>
+
+		<dc:creator><![CDATA[Dan Sheffner]]></dc:creator>
+		<pubDate>Thu, 01 Dec 2005 06:30:11 +0000</pubDate>
+		<guid isPermaLink="false">/blog/howtos/#comment-668</guid>
+
+					<description><![CDATA[please check you aoe site.  I have posted a small issue and would greatly appreciate any help.]]></description>
+			<content:encoded><![CDATA[<p>please check you aoe site.  I have posted a small issue and would greatly appreciate any help.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: hilli.dk &#187; So you have got yourself a Mac		</title>
+		<link>/howtos/comment-page-1/#comment-663</link>
+
+		<dc:creator><![CDATA[hilli.dk &#187; So you have got yourself a Mac]]></dc:creator>
+		<pubDate>Tue, 29 Nov 2005 00:51:55 +0000</pubDate>
+		<guid isPermaLink="false">/blog/howtos/#comment-663</guid>
+
+					<description><![CDATA[[...] Complete story in the HOWTOs section. [...]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] Complete story in the HOWTOs section. [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

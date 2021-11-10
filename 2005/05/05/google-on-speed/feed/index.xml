@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Google on speed &#8211; and how to get it down again	</title>
+	<atom:link href="/2005/05/05/google-on-speed/feed/" rel="self" type="application/rss+xml" />
+	<link>/2005/05/05/google-on-speed/</link>
+	<description>bRog</description>
+	<lastBuildDate>Tue, 13 Jan 2009 17:50:03 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>
+		By: Hilli		</title>
+		<link>/2005/05/05/google-on-speed/comment-page-1/#comment-2</link>
+
+		<dc:creator><![CDATA[Hilli]]></dc:creator>
+		<pubDate>Fri, 06 May 2005 00:08:11 +0000</pubDate>
+		<guid isPermaLink="false">/2005/05/05/google-on-speed/#comment-2</guid>
+
+					<description><![CDATA[Then again you would have to run some dirty operating system.
+
+Firefox users should checkout about:config and set network.http.pipelining to true and network.http.pipelining.maxrequest to e.g. 8 (max value).]]></description>
+			<content:encoded><![CDATA[<p>Then again you would have to run some dirty operating system.</p>
+<p>Firefox users should checkout about:config and set network.http.pipelining to true and network.http.pipelining.maxrequest to e.g. 8 (max value).</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

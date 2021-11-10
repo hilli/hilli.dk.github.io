@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirecting...</title>
+		<meta http-equiv="refresh" content="0;url=:443/files/aoe-overlay.tar.gz">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = ":443/files/aoe-overlay.tar.gz";
+		</script>
+
+		<p>You are being redirected to <a href=":443/files/aoe-overlay.tar.gz">:443/files/aoe-overlay.tar.gz</a></p>
+	</body>
+</html>

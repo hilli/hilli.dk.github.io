@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: XCode 2.2 and ruby&#8217;s mysql gem	</title>
+	<atom:link href="/2005/11/21/xcode-22-and-rubys-mysql-gem/feed/" rel="self" type="application/rss+xml" />
+	<link>/2005/11/21/xcode-22-and-rubys-mysql-gem/</link>
+	<description>bRog</description>
+	<lastBuildDate>Tue, 13 Jan 2009 17:49:47 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>
+		By: Hilli		</title>
+		<link>/2005/11/21/xcode-22-and-rubys-mysql-gem/comment-page-1/#comment-709</link>
+
+		<dc:creator><![CDATA[Hilli]]></dc:creator>
+		<pubDate>Mon, 12 Dec 2005 18:21:27 +0000</pubDate>
+		<guid isPermaLink="false">/2005/11/21/xcode-22-and-rubys-mysql-gem/#comment-709</guid>
+
+					<description><![CDATA[Though I should note, that apart from the above post, the install went smoothly by issuing the following command as root:
+
+gem install mysql -- --with-mysql-config=/usr/local/mysql/bin/mysql_config]]></description>
+			<content:encoded><![CDATA[<p>Though I should note, that apart from the above post, the install went smoothly by issuing the following command as root:</p>
+<p>gem install mysql &#8212; &#8211;with-mysql-config=/usr/local/mysql/bin/mysql_config</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: m3talsmith		</title>
+		<link>/2005/11/21/xcode-22-and-rubys-mysql-gem/comment-page-1/#comment-665</link>
+
+		<dc:creator><![CDATA[m3talsmith]]></dc:creator>
+		<pubDate>Wed, 30 Nov 2005 00:31:08 +0000</pubDate>
+		<guid isPermaLink="false">/2005/11/21/xcode-22-and-rubys-mysql-gem/#comment-665</guid>
+
+					<description><![CDATA[Works. Thanks.]]></description>
+			<content:encoded><![CDATA[<p>Works. Thanks.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

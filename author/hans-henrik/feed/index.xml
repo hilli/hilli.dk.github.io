@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Hans Henrik &#8211; hilli.dk</title>
+	<atom:link href="/author/hans-henrik/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>bRog</description>
+	<lastBuildDate>Tue, 13 Jan 2009 17:50:03 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+<site xmlns="com-wordpress:feed-additions:1">28158379</site>	<item>
+		<title>WordPress II</title>
+		<link>/2006/01/12/wordpress-ii/</link>
+		
+		<dc:creator><![CDATA[Hans Henrik]]></dc:creator>
+		<pubDate>Wed, 11 Jan 2006 23:20:05 +0000</pubDate>
+				<category><![CDATA[Softcore]]></category>
+		<guid isPermaLink="false">/2006/01/12/wordpress-ii/</guid>
+
+					<description><![CDATA[A new version of WordPress has been released. In fact it has allready been installed here. For some reason the developers have named it the Duke Ellington-version?!? There is not much to see here, but on the backend there is a lot of improvements. A new editor, hopefully a functional distributed antispam filter, post-preview on &#8230; <a href="/2006/01/12/wordpress-ii/" class="more-link">Continue reading<span class="screen-reader-text"> "WordPress II"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>A new version of WordPress has been released. In fact it has allready been installed here. For some reason the developers have named it the Duke Ellington-version?!? There is not much to see here, but on the backend there is a lot of improvements. A new editor, hopefully a functional distributed antispam filter, post-preview on the fly, more easy uploading and importing and now headlines can be edited too.</p>
+<p>Click more to see all the functions<br />
+<span id="more-49"></span></p>
+<h3>User Features WordPress 2.0</h3>
+<ul>
+<li><strong>Completely Redesigned Backend</strong> Â— The first thing youÂ’ll notice when you login to your blog is the backend has been completely overhauled for both aesthetics and usability. This is the first iteration of exciting things to come from the Shuttle team of designers that has been volunteering their time, and look for even more aesthetic improvements in the future.</li>
+<li><strong>Faster Administration</strong> Â— Call it AJAX, call it DHTML, call it Larry, but weÂ’ve paid close attention to streamlining some of the most common tasks in managing your blog. For example if youÂ’re writing a post and you can add categories on the fly, much like tagging in Flickr. Also instead of having two separate UIs for Â“simpleÂ” and Â“advancedÂ” posting, weÂ’ve combined them and let you customize the layout of the page on the fly by dragging and dropping the dialogs around. It saves where you put things so when you return itÂ’s just like you left it. When you delete a comment or category it will fade out without a page load.</li>
+<li><strong>WYSIWYG Editing</strong> Â— WP dev Andy Skelton and the TinyMCE team have done a tremendous amount of work to bring a smooth WYSIWYG editing experience to WordPress. As code purists, we are very picky about what kind of HTML is generated, and while itÂ’s not perfect yet (for instance nested lists can cause trouble) for 95% of what you do post-to-post the WYSIWYG should save you time. And if it doesnÂ’t, you can turn it off on your profile page. One note: Safari and older versions of Opera, both fantastic browsers, donÂ’t yet support everything thatÂ’s needed to do WYSIWYG, but we fully expect new versions of those browsers will continue to improve their standards support, so it may just be a matter of time.</li>
+<li><strong>Included Spam and Backup Plugins</strong> Â— WeÂ’ve included two of the most popular WordPress plugins: SkippyÂ’s DB backup can backup your database to a file and optionally email you a copy; Akismet is a distributed anti-spam system which gets smarter the more people use it.</li>
+<li><strong>Resizable Editing</strong> Â— This is one of my personal favorite features. Ever been writing a post and that textarea seemed a little small? Happens to me all the time, and our new rich text editor includes a feature that lets you resize the editor on-the-fly by clicking on the corner, just like a regular window.</li>
+<li><strong>Inline Uploading</strong> Â— WeÂ’ve optimized our uploader for image, audio, and video files and put it inline with the posting screen. You donÂ’t have to bounce around any more when writing a post! It also will organize your files for you as you upload them to make them easier to find later. On the backend, each uploaded file is actually a Â“sub-postÂ” so it can have individual comments and pingbacks, its own permalink, and even a custom template based on what type of file it is. You can click on attached files to get a menu of options, or if youÂ’re on Firefox you can drag and drop them into your WYSIWYG editor.</li>
+<li><strong>Faster Posting</strong> Â— In the past if you were linking to a number of posts or pinging a lot of update services, your posting time could appear to slow to a crawl even though everything was instantly done on the backend. WeÂ’ve modified how this works now so posting should be near-instantaneous, like everything else in WordPress.</li>
+<li><strong>Post Preview</strong> Â— Another enhancement to the post screen, now when you save a post it shows a live preview of how the post would look on your site, with the stylesheet and theme and everything. No more publishing a post just to see if it works.</li>
+<li><strong>Streamlined Importing</strong> Â— WeÂ’ve rewritten our import system from the ground up to be much easier to use (you no longer have to edit files), put it behind authentication, and also made it easy for new importers to be dropped into the system, much like plugins.</li>
+<li><strong>User Roles</strong> Â— We had a ton of feedback on our old numerical user level system. No one was exactly sure what those numbers meant! WeÂ’ve distilled the basic functions into a set of roles Â— such as administrator, editor, contributor Â— that make it easier to understand what sort of capabilities youÂ’re giving your blogÂ’s users. The new system is completely pluggable too, so plugins can modify roles and create groups that have access to certain things.</li>
+<li><strong>Header Customization</strong> Â— If youÂ’re tired of the blue header in the default theme, you can now change the colors and text of it, which weÂ’ve included as a demo of some of the new features available to theme authors.</li>
+</ul>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">49</post-id>	</item>
+		<item>
+		<title>Madrid</title>
+		<link>/2005/06/26/madrid/</link>
+		
+		<dc:creator><![CDATA[Hans Henrik]]></dc:creator>
+		<pubDate>Sun, 26 Jun 2005 19:54:19 +0000</pubDate>
+				<category><![CDATA[Softcore]]></category>
+		<guid isPermaLink="false">/2005/06/26/madrid/</guid>
+
+					<description><![CDATA[Finaly in Madrid after a long hot day on small country roads. The temperature is about 40 degrees and wearing leater, gloves and helmet is a pain when not driving at least 100 km/h. We are getting used to the traffic, the curves and our engines now. It feels more natural to ride the bikes &#8230; <a href="/2005/06/26/madrid/" class="more-link">Continue reading<span class="screen-reader-text"> "Madrid"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Finaly in Madrid after a long hot day on small country roads. The temperature is about 40 degrees and wearing leater, gloves and helmet is a pain when not driving at least 100 km/h. </p>
+<p>We are getting used to the traffic, the curves and our engines now. It feels more natural to ride the bikes fast and safe through dusty mountain roads than walking the streets of madrid.  </p>
+<p>The last couple of hours before Madrid were tough. We were hungry, sunburnt. (did Skunk Anansie make a record called hungry, sunburned and paranoid?) and paranoid because of the manic traffic on the higway leading to the city. </p>
+<p>More to come..</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">30</post-id>	</item>
+		<item>
+		<title>Sony Computer to launch high-tech PS3 next spring</title>
+		<link>/2005/05/18/sony-computer-to-launch-high-tech-ps3-next-spring/</link>
+		
+		<dc:creator><![CDATA[Hans Henrik]]></dc:creator>
+		<pubDate>Tue, 17 May 2005 23:13:56 +0000</pubDate>
+				<category><![CDATA[Softcore]]></category>
+		<guid isPermaLink="false">/2005/05/18/sony-computer-to-launch-high-tech-ps3-next-spring/</guid>
+
+					<description><![CDATA[Sony is to launch PlayStation 3 (PS3), its next-generation, high-performance household computer game console, next spring, company officials said today at the E3 conference. The new machine, which will have a higher performance capacity than most personal computers and provides sophisticated movie-quality images, will be priced at less than 50,000 yen (2746 kr.). The release &#8230; <a href="/2005/05/18/sony-computer-to-launch-high-tech-ps3-next-spring/" class="more-link">Continue reading<span class="screen-reader-text"> "Sony Computer to launch high-tech PS3 next spring"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Sony is to launch PlayStation 3 (PS3), its next-generation, high-performance household computer game console, next spring, company officials said today at the E3 conference. </p>
+<p>The new machine, which will have a higher performance capacity than most personal computers and provides sophisticated movie-quality images, will be priced at less than 50,000 yen (2746 kr.).</p>
+<p>The release of PS3 is likely to intensify competition in the computer game market as Microsoft is set to release its next-generation computer game machine, Xbox360, at the end of this year.</p>
+<p>PS3 uses a Cell, which is the world&#8217;s most advanced processor. SCE developed the Cell with Toshiba Corp. and it has 27 times the arithmetic capacity of modern personal computers.</p>
+<p>It also uses a Blue-ray Disc-Rom, the next-generation DVD that enables users to enjoy large-capacity games. PS3 can connect to the Internet to play on-line games, and connect to TV sets and personal computers to project pictures taken on digital cameras.</p>
+<p>UPDATE:<br />
+This article <a href="http://blogs.guardian.co.uk/games/archives/2005/05/18/ps3_and_360_battle_it_out_in_the_specs_department_what_in_the_world_do_they_mean.html">PS3 and 360 battle it out in the specs department.</a> has a nice comparison of the PS3 and XBox 360.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">24</post-id>	</item>
+		<item>
+		<title>Google on speed &#8211; and how to get it down again</title>
+		<link>/2005/05/05/google-on-speed/</link>
+					<comments>/2005/05/05/google-on-speed/#comments</comments>
+		
+		<dc:creator><![CDATA[Hans Henrik]]></dc:creator>
+		<pubDate>Thu, 05 May 2005 19:54:25 +0000</pubDate>
+				<category><![CDATA[Softcore]]></category>
+		<guid isPermaLink="false">/2005/05/05/google-on-speed/</guid>
+
+					<description><![CDATA[Google Labs has announced the launch of a program that should speed up browsing. Basicaly the tool is delivering cached content, auto-zipping stuff you are downloading and tweaking your connection a bit. The Google Web Accelerator will also learn your surf-patterns and get you those dirty pages before you even think about going there :-) &#8230; <a href="/2005/05/05/google-on-speed/" class="more-link">Continue reading<span class="screen-reader-text"> "Google on speed &#8211; and how to get it down again"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Google Labs has announced the launch of a program that should speed up browsing. Basicaly the tool is delivering cached content, auto-zipping stuff you are downloading and tweaking your connection a bit. </p>
+<p>The Google Web Accelerator will also learn your surf-patterns and <strong>get you those dirty pages</strong> before you even think about going there :-) </p>
+<p><a href="http://webaccelerator.google.com/">Link</a></p>
+<p>UPDATE: </p>
+<p><a href="http://fantomaster.com/fantomNews/archives/2005/05/05/fantomtiphow-to-block-google%e2%80%99s-web-accelerator/">How to blog Google Web Accelerator from including your pages in the indexing server via .htaccess. </a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2005/05/05/google-on-speed/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">21</post-id>	</item>
+		<item>
+		<title>Most bloggy newspaper</title>
+		<link>/2005/05/02/most-bloggy-newspaper/</link>
+		
+		<dc:creator><![CDATA[Hans Henrik]]></dc:creator>
+		<pubDate>Mon, 02 May 2005 00:32:11 +0000</pubDate>
+				<category><![CDATA[Softcore]]></category>
+		<guid isPermaLink="false">/blog/2005/05/02/most-bloggy-newspaper/</guid>
+
+					<description><![CDATA[Here is how to gauge the popularity and reach of online newspapers. Ethan Zuckerman of Global Voices has used the same methods that determine the popularity of blogs on online newspapers. HereÂ’s how you calculate this metric: Search Technorati to determine the number of links that include the paperÂ’s URL. For example, I just did &#8230; <a href="/2005/05/02/most-bloggy-newspaper/" class="more-link">Continue reading<span class="screen-reader-text"> "Most bloggy newspaper"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Here is how to gauge the popularity and reach of online newspapers. Ethan Zuckerman of Global Voices has used the same methods that determine the popularity of blogs on online newspapers.</p>
+<p>HereÂ’s how you calculate this metric:</p>
+<ol>
+<li>Search Technorati to determine the number of links that include the paperÂ’s URL. For example, I just did a Technorati search for links to the Indianapolis Star site (search string: http://indystar.com)./ The result: 1305 links from 942 sources.</li>
+<li>Get the paperÂ’s peak daily circulation from the Audit Bureau of Circulations. (Figures for the 100 largest U.S. papers are online.) For the Star, estimated daily circulation is: 358,261.</li>
+<li>Divide the circulation estimate by 1,000. For the Star, that yields 358.261.</li>
+<li>To calculate LkpC, divide the numbers of inbound links (step 1) by 1/1000 of the daily circulation (step 3). For the Star, this means 1,305 / 358.261 = 3.64</li>
+</ol>
+<p>The bloggiest newspapers Ethan Zuckerman found were:</p>
+<p>Christian Science Monitor &#8211; 134.90<br />
+New York Times &#8211; 63.08<br />
+Washington Post &#8211; 58.44<br />
+San Francisco Chronicle &#8211; 38.32<br />
+Boston Globe &#8211; 29.80<br />
+Seattle Post Intelligencer &#8211; 18.56<br />
+New York Post &#8211; 12.48<br />
+LA Times &#8211; 11.21</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">11</post-id>	</item>
+	</channel>
+</rss>

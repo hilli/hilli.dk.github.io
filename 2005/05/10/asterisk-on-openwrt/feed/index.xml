@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Asterisk on OpenWRT	</title>
+	<atom:link href="/2005/05/10/asterisk-on-openwrt/feed/" rel="self" type="application/rss+xml" />
+	<link>/2005/05/10/asterisk-on-openwrt/</link>
+	<description>bRog</description>
+	<lastBuildDate>Tue, 13 Jan 2009 17:50:03 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>
+		By: Hilli		</title>
+		<link>/2005/05/10/asterisk-on-openwrt/comment-page-1/#comment-3</link>
+
+		<dc:creator><![CDATA[Hilli]]></dc:creator>
+		<pubDate>Wed, 18 May 2005 15:37:50 +0000</pubDate>
+		<guid isPermaLink="false">/2005/05/10/asterisk-on-openwrt/#comment-3</guid>
+
+					<description><![CDATA[&lt;a href=&quot;http://kiel.kool.dk/&quot; rel=&quot;nofollow&quot;&gt;http://kiel.kool.dk/&lt;/a&gt; takes this a step further - Adding a SD card to the unit. Get your solders warmed up...]]></description>
+			<content:encoded><![CDATA[<p><a href="http://kiel.kool.dk/" rel="nofollow">http://kiel.kool.dk/</a> takes this a step further &#8211; Adding a SD card to the unit. Get your solders warmed up&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

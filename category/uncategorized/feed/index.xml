@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; hilli.dk</title>
+	<atom:link href="/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>bRog</description>
+	<lastBuildDate>Wed, 15 Aug 2018 13:32:48 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+<site xmlns="com-wordpress:feed-additions:1">28158379</site>	<item>
+		<title>Need I say more?</title>
+		<link>/2008/12/30/need-i-say-more/</link>
+		
+		<dc:creator><![CDATA[Hilli]]></dc:creator>
+		<pubDate>Mon, 29 Dec 2008 23:27:22 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=90</guid>
+
+					<description><![CDATA[Update: Just to follow a bit up on this one, a year and a half later: Yes, I became a dad. His name is Linus, and he got his own blog.]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_88" aria-describedby="caption-attachment-88" style="width: 768px" class="wp-caption aligncenter"><img data-attachment-id="88" data-permalink="/2008/12/30/need-i-say-more/attachment/035600/" data-orig-file="/wp-content/uploads/2008/12/035600.jpg" data-orig-size="768,568" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="baby_scan_1" data-image-description="" data-image-caption="&lt;p&gt;Hilli 2.0&lt;/p&gt;
+" data-medium-file="/wp-content/uploads/2008/12/035600-300x221.jpg" data-large-file="/wp-content/uploads/2008/12/035600.jpg" loading="lazy" class="size-full wp-image-88" title="baby_scan_1" src="/wp-content/uploads/2008/12/035600.jpg" alt="Hilli 2.0" width="768" height="568" srcset="/wp-content/uploads/2008/12/035600.jpg 768w, /wp-content/uploads/2008/12/035600-300x221.jpg 300w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" /><figcaption id="caption-attachment-88" class="wp-caption-text">Hilli 2.0</figcaption></figure>
+<p><strong>Update</strong>: Just to follow a bit up on this one, a year and a half later: Yes, I became a dad.<br />
+His name is Linus, and he got <a title="Linus Bonefeld Hilligsøe" href="http://linus.hilligsoe.dk/">his own blog</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">90</post-id>	</item>
+	</channel>
+</rss>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: ATA over Ethernet (AoE) in Gentoo Linux	</title>
+	<atom:link href="/howtos/ata-over-ethernet-aoe-in-gentoo-linux/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>bRog</description>
+	<lastBuildDate>Tue, 13 Jan 2009 17:47:55 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>
+		By: Hilli		</title>
+		<link>/howtos/ata-over-ethernet-aoe-in-gentoo-linux/comment-page-1/#comment-730</link>
+
+		<dc:creator><![CDATA[Hilli]]></dc:creator>
+		<pubDate>Wed, 21 Dec 2005 08:44:17 +0000</pubDate>
+		<guid isPermaLink="false">/howtos/ata-over-ethernet-aoe-in-gentoo-linux/#comment-730</guid>
+
+					<description><![CDATA[Dan: Have you tried running fdisk on the device exported? It sounds like you are using a partition, and not a whole disk for the vblade.
+
+moz: There are not any clients available for the Mac as far as I am aware of. Last I checked they had Linux support (as it was created there in the first place) and was working on windows support (Apparently some are stille using that..)]]></description>
+			<content:encoded><![CDATA[<p>Dan: Have you tried running fdisk on the device exported? It sounds like you are using a partition, and not a whole disk for the vblade.</p>
+<p>moz: There are not any clients available for the Mac as far as I am aware of. Last I checked they had Linux support (as it was created there in the first place) and was working on windows support (Apparently some are stille using that..)</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: moz		</title>
+		<link>/howtos/ata-over-ethernet-aoe-in-gentoo-linux/comment-page-1/#comment-710</link>
+
+		<dc:creator><![CDATA[moz]]></dc:creator>
+		<pubDate>Mon, 12 Dec 2005 18:22:53 +0000</pubDate>
+		<guid isPermaLink="false">/howtos/ata-over-ethernet-aoe-in-gentoo-linux/#comment-710</guid>
+
+					<description><![CDATA[Does all this work even if the client is a macintosh? is there a version of the aoetools for mac osx?
+thx]]></description>
+			<content:encoded><![CDATA[<p>Does all this work even if the client is a macintosh? is there a version of the aoetools for mac osx?<br />
+thx</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Dan Sheffner		</title>
+		<link>/howtos/ata-over-ethernet-aoe-in-gentoo-linux/comment-page-1/#comment-667</link>
+
+		<dc:creator><![CDATA[Dan Sheffner]]></dc:creator>
+		<pubDate>Thu, 01 Dec 2005 06:27:16 +0000</pubDate>
+		<guid isPermaLink="false">/howtos/ata-over-ethernet-aoe-in-gentoo-linux/#comment-667</guid>
+
+					<description><![CDATA[I&#039;m trying to follow your how to but have ran into an issue.  I have a linux 2.4x kernel running the vblade software and I have a 2.6.14.3 kernel with the module compiled in. I type in modprobe aoe and it works fine. This is the output from dmesg &#124; tail -n 3.
+aoe: aoe_init: AoE v2.6-12 initialised
+etherd/e1.0 unknown partion table
+aoe: 001232f9c36f e1.0 v4000 has 70332570 sectors.
+So I know it sees the drive but no device is locate at /dev/etherd/e1.0.  Any help would be greatley appriciated.]]></description>
+			<content:encoded><![CDATA[<p>I&#8217;m trying to follow your how to but have ran into an issue.  I have a linux 2.4x kernel running the vblade software and I have a 2.6.14.3 kernel with the module compiled in. I type in modprobe aoe and it works fine. This is the output from dmesg | tail -n 3.<br />
+aoe: aoe_init: AoE v2.6-12 initialised<br />
+etherd/e1.0 unknown partion table<br />
+aoe: 001232f9c36f e1.0 v4000 has 70332570 sectors.<br />
+So I know it sees the drive but no device is locate at /dev/etherd/e1.0.  Any help would be greatley appriciated.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Charles Nadeau		</title>
+		<link>/howtos/ata-over-ethernet-aoe-in-gentoo-linux/comment-page-1/#comment-408</link>
+
+		<dc:creator><![CDATA[Charles Nadeau]]></dc:creator>
+		<pubDate>Fri, 23 Sep 2005 17:12:21 +0000</pubDate>
+		<guid isPermaLink="false">/howtos/ata-over-ethernet-aoe-in-gentoo-linux/#comment-408</guid>
+
+					<description><![CDATA[Great HOW-TO! I followed it and it worked the first time. Did you write any init.d scripts to start/stop this upon booting/shutting down. If you did, you you mind sharing them. Or would you have any advise/tip about writing my own?
+Thanks!
+
+Charles]]></description>
+			<content:encoded><![CDATA[<p>Great HOW-TO! I followed it and it worked the first time. Did you write any init.d scripts to start/stop this upon booting/shutting down. If you did, you you mind sharing them. Or would you have any advise/tip about writing my own?<br />
+Thanks!</p>
+<p>Charles</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

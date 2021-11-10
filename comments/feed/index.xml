@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments for hilli.dk	</title>
+	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>bRog</description>
+	<lastBuildDate>Tue, 13 Jan 2009 17:49:47 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>
+		Comment on LVM2 and Software RAID in Linux by links for 2008-05-15 at Brian Kirsten&#39;s Blog		</title>
+		<link>/howtos/lvm2-and-software-raid-in-linux/comment-page-1/#comment-64218</link>
+
+		<dc:creator><![CDATA[links for 2008-05-15 at Brian Kirsten&#39;s Blog]]></dc:creator>
+		<pubDate>Thu, 15 May 2008 21:37:57 +0000</pubDate>
+		<guid isPermaLink="false">/howtos/lvm2-and-software-raid-in-linux/#comment-64218</guid>
+
+					<description><![CDATA[[...] hilli.dk » LVM2 and Software RAID in Linux (tags: linux lvm raid server software sysadmin lvm2 configuration administration)      Interesting Links. [...]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] hilli.dk » LVM2 and Software RAID in Linux (tags: linux lvm raid server software sysadmin lvm2 configuration administration)      Interesting Links. [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on Bike recovered again by El Toro		</title>
+		<link>/2006/07/23/bike-revocered-again/comment-page-1/#comment-2116</link>
+
+		<dc:creator><![CDATA[El Toro]]></dc:creator>
+		<pubDate>Mon, 24 Jul 2006 08:38:08 +0000</pubDate>
+		<guid isPermaLink="false">/2006/07/23/bike-revocered-again/#comment-2116</guid>
+
+					<description><![CDATA[&lt;p&gt;Det lyder alt for indviklet til mig. Mit rÃƒÂ¥d: kÃƒÅ¾b en ny bike! :-)&lt;/p&gt;
+]]></description>
+			<content:encoded><![CDATA[<p>Det lyder alt for indviklet til mig. Mit rÃƒÂ¥d: kÃƒÅ¾b en ny bike! :-)</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on ATA over Ethernet (AoE) in Gentoo Linux by Hilli		</title>
+		<link>/howtos/ata-over-ethernet-aoe-in-gentoo-linux/comment-page-1/#comment-730</link>
+
+		<dc:creator><![CDATA[Hilli]]></dc:creator>
+		<pubDate>Wed, 21 Dec 2005 08:44:17 +0000</pubDate>
+		<guid isPermaLink="false">/howtos/ata-over-ethernet-aoe-in-gentoo-linux/#comment-730</guid>
+
+					<description><![CDATA[Dan: Have you tried running fdisk on the device exported? It sounds like you are using a partition, and not a whole disk for the vblade.
+
+moz: There are not any clients available for the Mac as far as I am aware of. Last I checked they had Linux support (as it was created there in the first place) and was working on windows support (Apparently some are stille using that..)]]></description>
+			<content:encoded><![CDATA[<p>Dan: Have you tried running fdisk on the device exported? It sounds like you are using a partition, and not a whole disk for the vblade.</p>
+<p>moz: There are not any clients available for the Mac as far as I am aware of. Last I checked they had Linux support (as it was created there in the first place) and was working on windows support (Apparently some are stille using that..)</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on ATA over Ethernet (AoE) in Gentoo Linux by moz		</title>
+		<link>/howtos/ata-over-ethernet-aoe-in-gentoo-linux/comment-page-1/#comment-710</link>
+
+		<dc:creator><![CDATA[moz]]></dc:creator>
+		<pubDate>Mon, 12 Dec 2005 18:22:53 +0000</pubDate>
+		<guid isPermaLink="false">/howtos/ata-over-ethernet-aoe-in-gentoo-linux/#comment-710</guid>
+
+					<description><![CDATA[Does all this work even if the client is a macintosh? is there a version of the aoetools for mac osx?
+thx]]></description>
+			<content:encoded><![CDATA[<p>Does all this work even if the client is a macintosh? is there a version of the aoetools for mac osx?<br />
+thx</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on XCode 2.2 and ruby&#8217;s mysql gem by Hilli		</title>
+		<link>/2005/11/21/xcode-22-and-rubys-mysql-gem/comment-page-1/#comment-709</link>
+
+		<dc:creator><![CDATA[Hilli]]></dc:creator>
+		<pubDate>Mon, 12 Dec 2005 18:21:27 +0000</pubDate>
+		<guid isPermaLink="false">/2005/11/21/xcode-22-and-rubys-mysql-gem/#comment-709</guid>
+
+					<description><![CDATA[Though I should note, that apart from the above post, the install went smoothly by issuing the following command as root:
+
+gem install mysql -- --with-mysql-config=/usr/local/mysql/bin/mysql_config]]></description>
+			<content:encoded><![CDATA[<p>Though I should note, that apart from the above post, the install went smoothly by issuing the following command as root:</p>
+<p>gem install mysql &#8212; &#8211;with-mysql-config=/usr/local/mysql/bin/mysql_config</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on Howtos by Dan Sheffner		</title>
+		<link>/howtos/comment-page-1/#comment-668</link>
+
+		<dc:creator><![CDATA[Dan Sheffner]]></dc:creator>
+		<pubDate>Thu, 01 Dec 2005 06:30:11 +0000</pubDate>
+		<guid isPermaLink="false">/blog/howtos/#comment-668</guid>
+
+					<description><![CDATA[please check you aoe site.  I have posted a small issue and would greatly appreciate any help.]]></description>
+			<content:encoded><![CDATA[<p>please check you aoe site.  I have posted a small issue and would greatly appreciate any help.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on ATA over Ethernet (AoE) in Gentoo Linux by Dan Sheffner		</title>
+		<link>/howtos/ata-over-ethernet-aoe-in-gentoo-linux/comment-page-1/#comment-667</link>
+
+		<dc:creator><![CDATA[Dan Sheffner]]></dc:creator>
+		<pubDate>Thu, 01 Dec 2005 06:27:16 +0000</pubDate>
+		<guid isPermaLink="false">/howtos/ata-over-ethernet-aoe-in-gentoo-linux/#comment-667</guid>
+
+					<description><![CDATA[I&#039;m trying to follow your how to but have ran into an issue.  I have a linux 2.4x kernel running the vblade software and I have a 2.6.14.3 kernel with the module compiled in. I type in modprobe aoe and it works fine. This is the output from dmesg &#124; tail -n 3.
+aoe: aoe_init: AoE v2.6-12 initialised
+etherd/e1.0 unknown partion table
+aoe: 001232f9c36f e1.0 v4000 has 70332570 sectors.
+So I know it sees the drive but no device is locate at /dev/etherd/e1.0.  Any help would be greatley appriciated.]]></description>
+			<content:encoded><![CDATA[<p>I&#8217;m trying to follow your how to but have ran into an issue.  I have a linux 2.4x kernel running the vblade software and I have a 2.6.14.3 kernel with the module compiled in. I type in modprobe aoe and it works fine. This is the output from dmesg | tail -n 3.<br />
+aoe: aoe_init: AoE v2.6-12 initialised<br />
+etherd/e1.0 unknown partion table<br />
+aoe: 001232f9c36f e1.0 v4000 has 70332570 sectors.<br />
+So I know it sees the drive but no device is locate at /dev/etherd/e1.0.  Any help would be greatley appriciated.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on XCode 2.2 and ruby&#8217;s mysql gem by m3talsmith		</title>
+		<link>/2005/11/21/xcode-22-and-rubys-mysql-gem/comment-page-1/#comment-665</link>
+
+		<dc:creator><![CDATA[m3talsmith]]></dc:creator>
+		<pubDate>Wed, 30 Nov 2005 00:31:08 +0000</pubDate>
+		<guid isPermaLink="false">/2005/11/21/xcode-22-and-rubys-mysql-gem/#comment-665</guid>
+
+					<description><![CDATA[Works. Thanks.]]></description>
+			<content:encoded><![CDATA[<p>Works. Thanks.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on Howtos by hilli.dk &#187; So you have got yourself a Mac		</title>
+		<link>/howtos/comment-page-1/#comment-663</link>
+
+		<dc:creator><![CDATA[hilli.dk &#187; So you have got yourself a Mac]]></dc:creator>
+		<pubDate>Tue, 29 Nov 2005 00:51:55 +0000</pubDate>
+		<guid isPermaLink="false">/blog/howtos/#comment-663</guid>
+
+					<description><![CDATA[[...] Complete story in the HOWTOs section. [...]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] Complete story in the HOWTOs section. [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on Edwards Airforce Base, open house and airshow day by Lars Lykke		</title>
+		<link>/2005/10/22/edwards-airforce-base-open-house-and-airshow-day/comment-page-1/#comment-542</link>
+
+		<dc:creator><![CDATA[Lars Lykke]]></dc:creator>
+		<pubDate>Mon, 24 Oct 2005 05:32:28 +0000</pubDate>
+		<guid isPermaLink="false">/2005/10/22/edwards-airforce-base-open-house-and-airshow-day/#comment-542</guid>
+
+					<description><![CDATA[Couldn&#039;t help but look at the awesome pictures from EAB.
+You also have some pictures of real old beauties like 
+SR-71 Blackbird (The worlds fastest and highest flying aircraft...Or at least it was for a long time) 
+U-2 Spyplane (Including pilot in spacesuit)
+F-4 Phantom (also sometimes referred to as wild weasel depeding on armament)
+This comment will probably move this page up on the CIA ranking :-)
+Enjoy your trip
+/Lars]]></description>
+			<content:encoded><![CDATA[<p>Couldn&#8217;t help but look at the awesome pictures from EAB.<br />
+You also have some pictures of real old beauties like<br />
+SR-71 Blackbird (The worlds fastest and highest flying aircraft&#8230;Or at least it was for a long time)<br />
+U-2 Spyplane (Including pilot in spacesuit)<br />
+F-4 Phantom (also sometimes referred to as wild weasel depeding on armament)<br />
+This comment will probably move this page up on the CIA ranking :-)<br />
+Enjoy your trip<br />
+/Lars</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

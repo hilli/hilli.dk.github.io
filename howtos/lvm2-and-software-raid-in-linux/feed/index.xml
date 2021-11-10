@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: LVM2 and Software RAID in Linux	</title>
+	<atom:link href="/howtos/lvm2-and-software-raid-in-linux/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>bRog</description>
+	<lastBuildDate>Tue, 13 Jan 2009 17:47:55 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>
+		By: links for 2008-05-15 at Brian Kirsten&#39;s Blog		</title>
+		<link>/howtos/lvm2-and-software-raid-in-linux/comment-page-1/#comment-64218</link>
+
+		<dc:creator><![CDATA[links for 2008-05-15 at Brian Kirsten&#39;s Blog]]></dc:creator>
+		<pubDate>Thu, 15 May 2008 21:37:57 +0000</pubDate>
+		<guid isPermaLink="false">/howtos/lvm2-and-software-raid-in-linux/#comment-64218</guid>
+
+					<description><![CDATA[[...] hilli.dk » LVM2 and Software RAID in Linux (tags: linux lvm raid server software sysadmin lvm2 configuration administration)      Interesting Links. [...]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] hilli.dk » LVM2 and Software RAID in Linux (tags: linux lvm raid server software sysadmin lvm2 configuration administration)      Interesting Links. [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Ryan &#8211; hilli.dk</title>
+	<atom:link href="/author/ryan/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>bRog</description>
+	<lastBuildDate>Wed, 15 Aug 2018 13:45:27 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+<site xmlns="com-wordpress:feed-additions:1">28158379</site>	<item>
+		<title>Arrival</title>
+		<link>/2005/10/19/arrival/</link>
+		
+		<dc:creator><![CDATA[Ryan]]></dc:creator>
+		<pubDate>Wed, 19 Oct 2005 21:32:42 +0000</pubDate>
+				<category><![CDATA[Softcore]]></category>
+		<category><![CDATA[USA/05]]></category>
+		<guid isPermaLink="false">/?p=36</guid>
+
+					<description><![CDATA[The flighttime from CPH to LAX via LHR took about 14 hours. PHEW! To our luck, the Entertainment Centre onboard the Boing 747 from LHR to LAX provided 16 channels of TV and 4 of these showed a continous loop of movies (Batman Begins, Kingdom of Heaven, Madagsgar, Outbreak (kind of an old movie&#8230;), and &#8230; <a href="/2005/10/19/arrival/" class="more-link">Continue reading<span class="screen-reader-text"> "Arrival"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>The flighttime from CPH to LAX via LHR took about 14 hours.  PHEW!</p>
+<p><img src='/wp-content/800x600img_2174_small.jpg' alt='Greenland from above' title='Greenland from above' /></p>
+<p>To our luck, the Entertainment Centre onboard the Boing 747 from LHR to LAX provided 16 channels of TV and 4 of these showed a continous loop of movies (Batman Begins, Kingdom of Heaven, Madagsgar, Outbreak (kind of an old movie&#8230;), and a lot more). If you haven&#8217;t seen Batman Begins yet, I would  definitely recommend it!</p>
+<p>We arrived at LAX at 19:30 (local time) and about an hour later (due to Customs and Imigration&#8230;) we met Ulrik outside the Transit Area. I don&#8217;t if that was  pure luck but there seemed to be a lot of <strong>EXITs</strong> where we came from :)</p>
+<p>After a 45 min. drive to Ulriks place (<a href="http://maps.google.com/maps?q=229+E+Commonwealth+Ave,+Fullerton,+CA+92832&#038;iwloc=A&#038;hl=en">229 E Commonwealth Ave, Fullerton</a> => try hitting the satellite button) we decided to go for dinner. Of course, Ulrik already knew the perfect place: Heroes.  Below you can see a picture of Jens having a double pint of <a href="http://www.avbc.com/beers/ipa.html">Anderson Valley IPA</a></p>
+<p><img src='/wp-content/img_2182_small.jpg' alt='Hilli and a nice cuppa Anderson Valley IPA' title='Hilli and a nice cuppa Anderson Valley IPA' /></p>
+<p>Jens has uploaded a bunch of <a href="http://gallery.hilli.dk/pics/usa2005/051019/">pictures</a> from the flight and the first day here including a picture of our preliminary <a href="http://gallery.hilli.dk/pics/usa2005/051019/img_2189.jpg">CAR</a> (a Cadillac Deville). We will swap it tomorrow for a Pontiac G6.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">36</post-id>	</item>
+	</channel>
+</rss>

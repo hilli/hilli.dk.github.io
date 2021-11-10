@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Techno Blabber &#8211; hilli.dk</title>
+	<atom:link href="/category/techno-blabber/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>bRog</description>
+	<lastBuildDate>Wed, 15 Aug 2018 13:42:44 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+<site xmlns="com-wordpress:feed-additions:1">28158379</site>	<item>
+		<title>iPhone blog tool</title>
+		<link>/2008/07/22/iphone-blog-tool/</link>
+		
+		<dc:creator><![CDATA[Hilli]]></dc:creator>
+		<pubDate>Tue, 22 Jul 2008 10:57:38 +0000</pubDate>
+				<category><![CDATA[Techno Blabber]]></category>
+		<guid isPermaLink="false">/2008/07/22/iphone-blog-tool/</guid>
+
+					<description><![CDATA[WordPress Inc has released a blogging tool specific for the iPhone running version 2.0. If you can read this it works ;-)]]></description>
+										<content:encoded><![CDATA[<p>WordPress Inc has released a blogging tool specific for the iPhone running version 2.0. If you can read this it works ;-)</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">86</post-id>	</item>
+		<item>
+		<title>Soekris 4801 PXE boot installation</title>
+		<link>/2006/03/09/soekris-4801-pxe-boot-installation/</link>
+		
+		<dc:creator><![CDATA[Hilli]]></dc:creator>
+		<pubDate>Wed, 08 Mar 2006 23:03:40 +0000</pubDate>
+				<category><![CDATA[Techno Blabber]]></category>
+		<guid isPermaLink="false">/2006/03/09/soekris-4801-pxe-boot-installation/</guid>
+
+					<description><![CDATA[After half a weekend at LinuxForum 2006 I retuned with a Soekris Engineering net4801 witch I got from Wim Vandeputte, who runs KD85.com. Now the challange was: How to install something on it. The solution was at Ultradesic site. They got a very through HOWTO on how to install most *BSDs (FreeBSD, OpenBSD, NetBSD and &#8230; <a href="/2006/03/09/soekris-4801-pxe-boot-installation/" class="more-link">Continue reading<span class="screen-reader-text"> "Soekris 4801 PXE boot installation"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>After half a weekend at <a href="http://www.linuxforum.dk/2006/">LinuxForum 2006</a> I retuned with a <a href="http://soekris.com/net4801.htm">Soekris Engineering net4801</a> witch I got from Wim Vandeputte, who runs <a href="http://kd85.com/">KD85.com</a>.</p>
+<p><img alt="Soekris 4801-50" id="image56" src="/wp-content/uploads/2006/03/4801-50-case.gif" /></p>
+<p>Now the challange was: How to install something on it. The solution was at <a href="http://www.ultradesic.com/index.php?section=22">Ultradesic</a> site. They got a very through HOWTO on how to install most *BSDs (FreeBSD, OpenBSD, NetBSD and miniBSD) and some Linux distros on this SBC.</p>
+<p>Worth checking out if you either have a Soekris 4801 or are considering to get one.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">53</post-id>	</item>
+		<item>
+		<title>Hacking Your PSP Audio</title>
+		<link>/2006/01/20/hacking-your-psp-audio/</link>
+		
+		<dc:creator><![CDATA[Andepro]]></dc:creator>
+		<pubDate>Fri, 20 Jan 2006 09:56:12 +0000</pubDate>
+				<category><![CDATA[Techno Blabber]]></category>
+		<guid isPermaLink="false">/2006/01/20/hacking-your-psp-audio/</guid>
+
+					<description><![CDATA[Read: http://www.extremetech.com/article2/0,1697,1913235,00.asp]]></description>
+										<content:encoded><![CDATA[<p>Read: <a href="http://www.extremetech.com/article2/0,1697,1913235,00.asp">http://www.extremetech.com/article2/0,1697,1913235,00.asp</a></p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">51</post-id>	</item>
+		<item>
+		<title>New Mozilla Firefox out</title>
+		<link>/2005/12/01/new-mozilla-firefox-out/</link>
+		
+		<dc:creator><![CDATA[Hilli]]></dc:creator>
+		<pubDate>Wed, 30 Nov 2005 23:02:37 +0000</pubDate>
+				<category><![CDATA[Mac OS X]]></category>
+		<category><![CDATA[Techno Blabber]]></category>
+		<guid isPermaLink="false">/?p=45</guid>
+
+					<description><![CDATA[I've must have been sleeping, because important thing have gone by without me noticing it.]]></description>
+										<content:encoded><![CDATA[<p>I&#8217;ve must have been sleeping, because important things have gone by without me noticing it. </p>
+<p>I&#8217;m talking about the new Mozilla Firefox 1.5 which hit the streets yesterday. And the fact they moved the distribution of Firefox and Thunderbird to mozilla.com instead of the .org site where we &#8211; by now &#8211; are used to get the best browser currently available.</p>
+<p>Go get it while it&#8217;s fresh:</p>
+<div style="padding: 5px 120px;">
+<script type="text/javascript"><!--
+google_ad_client = "pub-7001470329354026";
+google_ad_width = 120;
+google_ad_height = 240;
+google_ad_format = "120x240_as_rimg";
+google_cpa_choice = "CAAQjeWZzgEaCGUPemYRwK8bKPG193M";
+//--></script><br />
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+</div>
+<p>Then, if you are on a Mac, go check out the theme at <a href="http://aronnax.spymac.com/" title="GrApple Eos Pro theme for Firefox 1.5">http://aronnax.spymac.com/</a>. The Firefox 1.5 release is more Mac friendly &#8211; This also makes it look Mac like.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">45</post-id>	</item>
+		<item>
+		<title>MacLove &#8211; You are not alone</title>
+		<link>/2005/11/29/maclove-you-are-not-alone/</link>
+		
+		<dc:creator><![CDATA[Hilli]]></dc:creator>
+		<pubDate>Tue, 29 Nov 2005 01:58:20 +0000</pubDate>
+				<category><![CDATA[Mac OS X]]></category>
+		<category><![CDATA[Softcore]]></category>
+		<guid isPermaLink="false">/2005/11/29/maclove-you-are-not-alone/</guid>
+
+					<description><![CDATA[I do not seem to be the only one enjoying the purchase of a Mac and the features of OS X. Giles Turnbull wrote this piece on O&#8217;Reilly Net: Dear switchers]]></description>
+										<content:encoded><![CDATA[<p>I do not seem to be the only one enjoying the purchase of a Mac and the features of OS X. Giles Turnbull wrote this piece on O&#8217;Reilly Net:</p>
+<p><a href="http://www.oreillynet.com/pub/wlg/8556">Dear switchers</a></p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">44</post-id>	</item>
+		<item>
+		<title>So you have got yourself a Mac</title>
+		<link>/2005/11/28/so-you-have-got-yourself-a-mac/</link>
+		
+		<dc:creator><![CDATA[Hilli]]></dc:creator>
+		<pubDate>Mon, 28 Nov 2005 20:15:34 +0000</pubDate>
+				<category><![CDATA[Mac OS X]]></category>
+		<category><![CDATA[Techno Blabber]]></category>
+		<guid isPermaLink="false">/?p=42</guid>
+
+					<description><![CDATA[Handling the move from Linux to Mac OS X]]></description>
+										<content:encoded><![CDATA[<p>I have recently acquired myself a Apple Mac mini, while being in Apple county (That is California). As one might suspect, as it is the only Mac to fit in the hand luggage (Laptops apart). Fortunately I got the secretly upgraded version with a 1.5 GHz G4. It also got fitted with 1GB RAM, now I was at it&#8230;</p>
+<p><a href="/howtos/so-you-have-got-yourself-a-mac/"><br />
+Complete story</a> in the <a href="/howtos/">HOWTO</a>s section.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">42</post-id>	</item>
+		<item>
+		<title>XCode 2.2 and ruby&#8217;s mysql gem</title>
+		<link>/2005/11/21/xcode-22-and-rubys-mysql-gem/</link>
+					<comments>/2005/11/21/xcode-22-and-rubys-mysql-gem/#comments</comments>
+		
+		<dc:creator><![CDATA[Hilli]]></dc:creator>
+		<pubDate>Mon, 21 Nov 2005 01:17:12 +0000</pubDate>
+				<category><![CDATA[Mac OS X]]></category>
+		<category><![CDATA[Techno Blabber]]></category>
+		<guid isPermaLink="false">/2005/11/21/xcode-22-and-rubys-mysql-gem/</guid>
+
+					<description><![CDATA[The problem: `gem install mysql` failed with a can't find header files for ruby. ERROR: While executing gem ... (RuntimeError) ERROR: Failed to build gem native extension. The problem seemed to be related with the fresh version of XCode 2.2, which introduces support for the intel architecture (Who needs that anyway). Google Groups : comp.lang.ruby &#8230; <a href="/2005/11/21/xcode-22-and-rubys-mysql-gem/" class="more-link">Continue reading<span class="screen-reader-text"> "XCode 2.2 and ruby&#8217;s mysql gem"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>The problem:</p>
+<p>`gem install mysql` failed with a</p>
+<p><code>can't find header files for ruby.<br />
+ERROR:  While executing gem ... (RuntimeError)<br />
+    ERROR: Failed to build gem native extension.<br />
+</code></p>
+<p>The problem seemed to be related with the fresh version of XCode 2.2, which introduces support for the intel architecture (Who needs that anyway).</p>
+<p><a href="http://groups.google.com/group/comp.lang.ruby/msg/5b7d897c4316a6d0">Google Groups : comp.lang.ruby</a> had the solution. Not pretty, but it works. Now one can continue hacking some <a href="http://www.rubyonrails.org/" title="Ruby on Rails">RoR</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2005/11/21/xcode-22-and-rubys-mysql-gem/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">41</post-id>	</item>
+		<item>
+		<title>The Six Dumbest Ideas in Computer Security</title>
+		<link>/2005/09/22/the-six-dumbest-ideas-in-computer-security/</link>
+		
+		<dc:creator><![CDATA[Hilli]]></dc:creator>
+		<pubDate>Thu, 22 Sep 2005 21:40:49 +0000</pubDate>
+				<category><![CDATA[Techno Blabber]]></category>
+		<guid isPermaLink="false">/2005/09/22/the-six-dumbest-ideas-in-computer-security/</guid>
+
+					<description><![CDATA[The Six Dumbest Ideas in Computer Security &#8211; Read it and weep]]></description>
+										<content:encoded><![CDATA[<p><a href="http://www.ranum.com/security/computer_security/editorials/dumb/">The Six Dumbest Ideas in Computer Security</a> &#8211; Read it and weep</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">33</post-id>	</item>
+		<item>
+		<title>Embrace, extend and extinguish</title>
+		<link>/2005/08/11/embrace-extend-and-extinguish/</link>
+		
+		<dc:creator><![CDATA[Hilli]]></dc:creator>
+		<pubDate>Wed, 10 Aug 2005 23:01:37 +0000</pubDate>
+				<category><![CDATA[Techno Blabber]]></category>
+		<guid isPermaLink="false">/2005/08/11/embrace-extend-and-extinguish/</guid>
+
+					<description><![CDATA[Embrace, extend and extinguish on Wikipedia is a good read. If you are disgusted by M$s techniques, this will not make you a happy camper.]]></description>
+										<content:encoded><![CDATA[<p><a href="http://en.wikipedia.org/wiki/Embrace_and_extend">Embrace, extend and extinguish</a> on Wikipedia is a good read. If you are disgusted by M$s techniques, this will not make you a happy camper.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">31</post-id>	</item>
+		<item>
+		<title>The new baselayout stable in Gentoo &#8211; Things to watch out for.</title>
+		<link>/2005/06/09/the-new-baselayout-stable-in-gentoo-things-to-watch-out-for/</link>
+		
+		<dc:creator><![CDATA[Hilli]]></dc:creator>
+		<pubDate>Thu, 09 Jun 2005 17:35:38 +0000</pubDate>
+				<category><![CDATA[Techno Blabber]]></category>
+		<guid isPermaLink="false">/?p=28</guid>
+
+					<description><![CDATA[Gentoo has introduced the formerly ~testing baselayout as stable (Version 1.11.12). This introduces quiet a lot of changes to you system, so you will need to watch out for a few things. Especially the network part has changed &#8211; And definitly for the better, if you ask me. But your setup will need updating. /etc/conf.d/net: &#8230; <a href="/2005/06/09/the-new-baselayout-stable-in-gentoo-things-to-watch-out-for/" class="more-link">Continue reading<span class="screen-reader-text"> "The new baselayout stable in Gentoo &#8211; Things to watch out for."</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Gentoo has introduced the formerly ~testing baselayout as stable (Version 1.11.12). This introduces quiet a lot of changes to you system, so you will need to watch out for a few things. Especially the network part has changed &#8211; And definitly for the better, if you ask me.  But your setup <strong>will</strong> need updating.</p>
+<p><strong>/etc/conf.d/net</strong>: This is where the most interesting stuff has happened. Check <strong>/etc/conf.d/net.example</strong> for, erhhh, examples. But if you have been running DHCP on eth0 all you would want in this file is </p>
+<blockquote><p>config_eth0=( &#8220;dhcp&#8221; )</p></blockquote>
+<p>Having a static adresse it is just something like the following instead:</p>
+<blockquote><p>config_eth0=( &#8220;192.168.1.67/24&#8221;)<br />
+routes_eth0=( &#8220;default via 192.168.2.1&#8221; )</p></blockquote>
+<p>The greatest news if for those roaming around with wireless access though.</p>
+<p><strong>/etc/conf.d/hostname</strong>: Replaces <strong>/etc/hostname</strong> (Witch you should remove).<br />
+<strong>/etc/conf.d/domainname</strong>: Replaces <strong>/etc/dnsdomainname</strong> (Witch you should remove).</p>
+<p><strong>/etc/rc.conf</strong>: Stuff has been moved from here to other places. Check <strong>/etc/conf.d/clock</strong> if you use other than &#8220;UTC&#8221; as timezone. <strong>/etc/conf.d/consolefont</strong> and <strong>/etc/conf.d/keymaps</strong> has the rest.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">28</post-id>	</item>
+	</channel>
+</rss>
